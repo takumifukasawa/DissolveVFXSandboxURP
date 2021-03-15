@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DissolveBurn
+  m_Name: DissolveMosaic
   m_Shader: {fileID: -6465566751694194690, guid: 3a6c9a9a827ff8340bef91d5d97e1c1c,
     type: 3}
   m_ShaderKeywords: 
@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_1E532690:
-        m_Texture: {fileID: 2800000, guid: 3bb8dc79a378642f991a144e49743dd4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8f39078b5b73a44a5b1076803d569f93, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -68,16 +68,16 @@ Material:
     - Vector1_4FD71541: 0.6
     - Vector1_6E4EF989: 0.44
     - Vector1_77409AD8: 0.45
-    - Vector1_7AD41551: 0.5
+    - Vector1_7AD41551: 1
     - Vector1_8520E192: 0.42
     - Vector1_883B6F41: 0.55
     - Vector1_945D013B: 0.4
     - Vector1_9AEE82B7: 0.4
     - Vector1_9CB22A50: 0
-    - Vector1_D803455D: 0.05
+    - Vector1_D803455D: 0.033
     - Vector1_DCD98: 0.46
     - Vector1_E0D629BE: 0.6
-    - Vector1_E878C15C: 0.6
+    - Vector1_E878C15C: 0.32
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -100,8 +100,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_365AD219: {r: 7.9066987, g: 1.1177008, b: 0.20698164, a: 0}
-    - Color_53B64128: {r: 1, g: 1, b: 1, a: 0}
+    - Color_365AD219: {r: 0.110228784, g: 4.2989225, b: 7.0178995, a: 0}
+    - Color_53B64128: {r: 0, g: 0.79031897, b: 1, a: 0}
     - Color_C8ACFA64: {r: 1, g: 1, b: 1, a: 0}
     - Color_E7283522: {r: 0, g: 0.7887945, b: 1, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
